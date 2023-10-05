@@ -34,7 +34,7 @@ based on Arvancloud access regions at the time of writing this document, you can
 | ------------ | ------------------------------------------ |
 | ir-thr-c1    | Simin Datacenter located in Iran, Tehran   |
 | ir-thr-c2    | Forough Datacenter located in Iran, Tehran |
-| ir-tbz-dc1   | Shahr Datacenter located in Iran, Tabriz   |
+| ir-tbz-dc1   | Shahriar Datacenter located in Iran, Tabriz   |
 | ir-thr-w1    | Forough Datacenter located in Iran, Tehran |
 
 for example, if you intend to provision a infrastructure in Tabriz datacenter set this in `teraform.tafvars`:
