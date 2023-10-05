@@ -1,0 +1,7 @@
+ApiKey              = "<ArvanCloud ApiKey>"
+region              = "<ArvanCloudregion>" # possible values: "[ir-thr-c1", "ir-thr-c2", "ir-tbz-dc1", "ir-thr-w1"]
+public-key          = "<Public SSH key>"
+server-count-centos = 0
+server-count-debian = 0
+server-count-rocky  = 0
+server-count-ubuntu = 0
