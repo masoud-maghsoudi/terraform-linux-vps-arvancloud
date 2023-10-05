@@ -10,7 +10,7 @@ variable "ApiKey" {
 
 variable "image-name" {
   type    = string
-  default = "rocky/9" # possible choise: ["rocky/8.5" , "rocky/9"]
+  default = "rocky/9" # possible values: ["rocky/8.5" , "rocky/9"]
 }
 
 variable "image-flavor" {

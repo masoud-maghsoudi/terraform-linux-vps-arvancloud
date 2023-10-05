@@ -10,7 +10,7 @@ variable "ApiKey" {
 
 variable "image-name" {
   type    = string
-  default = "debian/12" # possible choises: ["debian/10", "debian/11", "debian/12"]
+  default = "debian/12" # possible values: ["debian/10", "debian/11", "debian/12"]
 }
 
 variable "image-flavor" {

@@ -10,7 +10,7 @@ variable "ApiKey" {
 
 variable "image-name" {
   type    = string
-  default = "ubuntu/22.04" # possible choise: ["ubuntu/18.04", "ubuntu/20.04", "ubuntu/22.04"]
+  default = "ubuntu/22.04" # possible values: ["ubuntu/18.04", "ubuntu/20.04", "ubuntu/22.04"]
 }
 
 variable "image-flavor" {
